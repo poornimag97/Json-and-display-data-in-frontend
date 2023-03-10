@@ -1,0 +1,142 @@
+[
+  {
+     
+    "companyName" :"Accenture",
+      "location"  :"Bangalore",
+      "skills"    :["java", "jdbc"],
+      "logo"      :"http://coursera-university-assets.s3.amazonaws.com/3d/5b6b32681044ec8f55baa5531c10a2/Acc_Logo_Black_Purple_RGB.png"
+  },
+  {
+    
+  "companyName" :"CreativeSwitch",
+    "location"  :"Mumbai",
+    "skills"    :["react"],
+    "logo"      :"https://images-platform.99static.com//7LL7gDmXh3mvp0yXeoRYOQy2CyA=/50x49:946x945/fit-in/500x500/99designs-contests-attachments/111/111221/attachment_111221147"
+},
+{
+ 
+"companyName" :"DigitalWord",
+  "location"  :"Puna",
+  "skills"    :["javascript"],
+  "logo"      :"https://static.vecteezy.com/system/resources/previews/004/397/655/original/world-tech-logo-design-template-icons-free-vector.jpg"
+},
+{
+
+"companyName" :"intellese",
+"location"  :"Hydrabad",
+"skills"    :["sql"],
+"logo"      :"https://dcassetcdn.com/design_img/3837588/598483/24019468/wqrqy8e1sh61wn01mjv3hhpr8x_thumbnail.png"
+},
+{
+
+"companyName" :"cubetech",
+"location"  :"Channai",
+"skills"    :["React"],
+"logo"      :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVzvcq2QeggVpyOyMv18lIbmBiCtcvyenFw&usqp=CAU"
+},
+{
+
+"companyName" :"foxtech",
+"location"  :"Mumbai",
+"skills"    :["C++"],
+"logo"      :"https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2660/posts/32707/image/fox-tech-colorful-logo-YE29W9Q.jpg"
+},
+{
+
+"companyName" :"logo text",
+"location"  :"Puna",
+"skills"    :["php"],
+"logo"      :"https://dynamic.brandcrowd.com/asset/logo/007862fd-32a3-4874-ba12-673ed05fe41e/logo-search-grid-1x?logoTemplateVersion=1&v=638095267054030000"
+},
+{
+
+"companyName" :"tisseran",
+"location"  :"Bangalore",
+"skills"    :["artificial intelligence"],
+"logo"      :"https://cdn.dribbble.com/userupload/4473326/file/original-4f326cd78ccd7082640c2b50fbb24b0d.jpg?resize=400x0"
+},
+{
+
+"companyName" :"mobilunity",
+"location"  :"Mumbai",
+"skills"    :["python"],
+"logo"      :"https://www.thelogocreative.co.uk/wp-content/uploads/Mobilunity-Logo-Design-min.jpg"
+},
+{
+
+"companyName" :"quantum software group",
+"location"  :"Puna",
+"skills"    :["ruby"],
+"logo"      :"https://images-platform.99static.com//v8cH0xr8mFDLmZ5ibof3VzT5Yck=/0x0:1000x1000/fit-in/500x500/99designs-contests-attachments/101/101917/attachment_101917196"
+},
+{
+
+"companyName" :"avertium",
+"location"  :"Mumbai",
+"skills"    :["c lamguage"],
+"logo"      :"https://images-platform.99static.com//-q05jxeZ7qO6rfG3fryx5ESTOgg=/118x119:1479x1480/fit-in/500x500/99designs-contests-attachments/103/103768/attachment_103768679"
+},
+{
+
+"companyName" :"microsoft",
+"location"  :"Channai",
+"skills"    :["cloudcomputing"],
+"logo"      :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8FtAzvnbhA6xf2TBxP5uSUAL_Cy3grypNQ&usqp=CAU"
+},
+{
+
+"companyName" :"quadtech",
+"location"  :"Mumbai",
+"skills"    :["java"],
+"logo"      :"https://dypdvfcjkqkg2.cloudfront.net/large/1403212-5323.png"
+},
+{
+
+"companyName" :"netdev",
+"location"  :"Puna",
+"skills"    :["dart"],
+"logo"      :"https://images-platform.99static.com//kg8OcHbYSv7AJbOqTSS1fBc_A5g=/315x258:815x758/fit-in/500x500/99designs-contests-attachments/67/67712/attachment_67712602"
+},
+{
+
+"companyName" :"tcs",
+"location"  :"Bangalore",
+"skills"    :["java"],
+"logo"      :"https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/13b693b4dcc055d2344351b4c9a148e9"
+},
+{
+
+"companyName" :"intel",
+"location"  :"Channai",
+"skills"    :["ruby"],
+"logo"      :"https://cdn.logojoy.com/wp-content/uploads/2018/05/01104836/1751.png"
+},
+{
+"position"  :"UI/UX",
+"companyName" :"purshoitsolutions",
+"location"  :"Hydrabad",
+"skills"    :["sql"],
+"logo"      :"https://www.logopeople.in/wp-content/themes/understrap-master/assets/img/pursho-it-company-logo.jpg"
+},
+{
+
+"companyName" :"Xectra",
+"location"  :"Channai",
+"skills"    :["java","jdbc"],
+"logo"      :"https://cdn.logojoy.com/wp-content/uploads/2018/05/30162525/8_big19.png"
+},
+{
+
+"companyName" :"ception",
+"location"  :"Puna",
+"skills"    :["python"],
+"logo"      :"https://static.wixstatic.com/media/72c0b2_9417bad731e543578911f6110f4e9a2d~mv2.jpg/v1/fill/w_772,h_397,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/72c0b2_9417bad731e543578911f6110f4e9a2d~mv2.jpg"
+},
+{
+
+"companyName" :"ftech",
+"location"  :"Mumbai",
+"skills"    :["java","jdbc"],
+"logo"      :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGWfB7HsQRND8IyOGOZsT1jEgt1Fv8wAdM1l2rkxuazoCWI2u94JrnCe4n2SlqYgtCPw&usqp=CAU"
+}
+]
